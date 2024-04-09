@@ -49,7 +49,7 @@
 
 <div>
 
-holopin Badge Board
+<h2 align="left">Holopin Badge Board</h2>
 </div>
 
 <div>
