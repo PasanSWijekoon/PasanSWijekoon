@@ -65,25 +65,10 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm PasanSWijekoon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanswijekoon&label=Profile%20views&color=0e75b6&style=flat" alt="pasanswijekoon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasanswijekoon" alt="pasanswijekoon" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/PasanSWijekoon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PasanSWijekoon" /></a><a href="https://ko-fi.com/PasanSWijekoon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="PasanSWijekoon" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasanswijekoon&show_icons=true&locale=en&layout=compact" alt="pasanswijekoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasanswijekoon&show_icons=true&locale=en" alt="pasanswijekoon" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasanswijekoon&" alt="pasanswijekoon" /></p>
 
